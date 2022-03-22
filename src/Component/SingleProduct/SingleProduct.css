@@ -1,0 +1,30 @@
+
+.single-product-section{
+    Width: 300px;
+    Height: 520px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+    margin-top: 8px;
+}
+.single-product-section img{
+    Width: 286px;
+    Height: 286px;
+    border-radius: 8px;
+    margin: 7px;
+}
+.single-product-text{
+    margin-left: 14px;
+}
+
+.add-product-btn{
+    width: 100%;
+    background-color:#FFE0B3;
+    border: 1px solid #95A0A7;
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    bottom: 0;
+}
+.add-product-btn:hover{
+    background-color: yellow;
+}
